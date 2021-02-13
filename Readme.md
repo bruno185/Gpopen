@@ -24,7 +24,7 @@ To do this my program :
 - If the prefix is empty, it extracts it at memory address $280, and calls set_prefix.
 - Then it can calls openfile, then closefile, without error.
 
-- If the prefix is not empty, it can open directly and close a file without any error.
+- If the prefix is not empty, it can directly open and close a file without any error.
 
 Practically :
 Boot gpopen.po disk image with Applewin
