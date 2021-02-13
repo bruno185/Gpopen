@@ -71,7 +71,7 @@ Pour ce faire, mon programme:
 Pratiquement:
 Démarrez l'image disque gpopen.po avec Applewin
 Lancer mon programme avec la commande -GPOPEN
--> Le préfixe est vide, mais capturé à 280 $.
+-> Le préfixe est vide, mais capturé à $280.
 
 Redémarrer
 Cette fois, tapez PREFIX /BRUNO (=nom du volume)
