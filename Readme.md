@@ -1,6 +1,6 @@
 GPOPEN (Get_prefix and open)
 
---- English ---
+--- English --- (see french below)
 
 Is an assembly program for Apple // and ProDOS, using MLI calls.
 It explains how to open a file when the prefix is not set (enpty).
